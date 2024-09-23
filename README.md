@@ -11,3 +11,8 @@ Silly feller on the internet who makes Minecraft plugins.
 ## My Domains:
 * [eaglercraft.dev](https://eaglercraft.dev/)
 * [nightshade.lol](https://nightshade.lol/)
+* [eaglercraftx.com (Free subdomains!)](https://eaglercraftx.com)
+* [ggsmp.com](https://ggsmp.com/)
+* [serverdot.so](https://serverdot.so)
+## Related Domains
+* [ggsmp.net](https://ggsmp.net)
