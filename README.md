@@ -1,18 +1,15 @@
-# ServerDotSo (therealserver)
-*Backend developer focusing on Java, JavaScript, and PHP.*
+## ServerDotSo
+Utterly useless backend developer focusing on Java, yet that doesn't mean I'm actually good at it.
 
-Silly feller on the internet who makes Minecraft plugins.
+Mentally ill person who pours over an IDE to waste time until my eventual demise.
+
+If you have business inquiries, then you are most likely misguided. I don't want your business.
+
+Legal questions? Assuming they're valid, knock on my door.
+
+I would link my bio site, but I'm not interested in people getting my information. It's more of a ranting site after all.
 
 ## My Socials
-* [ServerDotSo on Modrinth](https://modrinth.com/user/ServerDotSo)
+* [ServerDotSo on Modrinth](https://modrinth.com/user/ServerDotSo/)
 * [ServerDotSo on Reddit](https://www.reddit.com/user/ServerDotSo/)
-* [Join my Discord](https://discord.gg/76CAK4tXnY)
-
-## My Domains:
-* [eaglercraft.dev](https://eaglercraft.dev/)
-* [nightshade.lol](https://nightshade.lol/)
-* [eaglercraftx.com (Free subdomains!)](https://eaglercraftx.com)
-* [ggsmp.com](https://ggsmp.com/)
-* [serverdot.so](https://serverdot.so)
-## Related Domains
-* [ggsmp.net](https://ggsmp.net)
+* These are my only social platforms, besides my Discord: `@therealserver`
