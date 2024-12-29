@@ -7,8 +7,7 @@ If you have business inquiries, then you are most likely misguided. I don't want
 
 Legal questions? Assuming they're valid, knock on my door.
 
-I would link my bio site, but I'm not interested in people getting my information. It's more of a ranting site after all.
-
+[https://serverdot.so/](https://serverdot.so)
 ## My Socials
 * [ServerDotSo on Modrinth](https://modrinth.com/user/ServerDotSo/)
 * [ServerDotSo on Reddit](https://www.reddit.com/user/ServerDotSo/)
